@@ -44,3 +44,29 @@ epoch= 160, TRAIN: loss= 0.0007, acc= 0.7672, class_avg_acc= 0.8495, TEST: loss=
 epoch= 170, TRAIN: loss= 0.0007, acc= 0.7611, class_avg_acc= 0.8384, TEST: loss= 0.0007, acc= 0.7842, class_avg_acc= 0.8500
 epoch= 180, TRAIN: loss= 0.0007, acc= 0.7651, class_avg_acc= 0.8519, TEST: loss= 0.0007, acc= 0.7806, class_avg_acc= 0.8508
 epoch= 190, TRAIN: loss= 0.0007, acc= 0.7502, class_avg_acc= 0.8388, TEST: loss= 0.0007, acc= 0.8194, class_avg_acc= 0.8587
+
+
+## emebeddings with class weights lr 0.0001 epochs 500
+epoch= 270, TRAIN: loss= 0.0007, acc= 0.7472, class_avg_acc= 0.8458, TEST: loss= 0.0006, acc= 0.8061, class_avg_acc= 0.8601
+epoch= 280, TRAIN: loss= 0.0007, acc= 0.7505, class_avg_acc= 0.8414, TEST: loss= 0.0006, acc= 0.8048, class_avg_acc= 0.8595
+epoch= 290, TRAIN: loss= 0.0007, acc= 0.7420, class_avg_acc= 0.8409, TEST: loss= 0.0007, acc= 0.8303, class_avg_acc= 0.8637
+epoch= 300, TRAIN: loss= 0.0007, acc= 0.7393, class_avg_acc= 0.8360, TEST: loss= 0.0007, acc= 0.7709, class_avg_acc= 0.8438
+epoch= 310, TRAIN: loss= 0.0007, acc= 0.7508, class_avg_acc= 0.8492, TEST: loss= 0.0006, acc= 0.7915, class_avg_acc= 0.8534
+epoch= 320, TRAIN: loss= 0.0007, acc= 0.7530, class_avg_acc= 0.8442, TEST: loss= 0.0007, acc= 0.8109, class_avg_acc= 0.8548
+epoch= 330, TRAIN: loss= 0.0007, acc= 0.7639, class_avg_acc= 0.8522, TEST: loss= 0.0006, acc= 0.7964, class_avg_acc= 0.8505
+epoch= 340, TRAIN: loss= 0.0007, acc= 0.7499, class_avg_acc= 0.8469, TEST: loss= 0.0007, acc= 0.7952, class_avg_acc= 0.8475
+epoch= 350, TRAIN: loss= 0.0007, acc= 0.7569, class_avg_acc= 0.8542, TEST: loss= 0.0007, acc= 0.8230, class_avg_acc= 0.8679
+epoch= 360, TRAIN: loss= 0.0007, acc= 0.7654, class_avg_acc= 0.8529, TEST: loss= 0.0007, acc= 0.8230, class_avg_acc= 0.8679
+epoch= 370, TRAIN: loss= 0.0007, acc= 0.7557, class_avg_acc= 0.8467, TEST: loss= 0.0007, acc= 0.8061, class_avg_acc= 0.8601
+epoch= 380, TRAIN: loss= 0.0007, acc= 0.7548, class_avg_acc= 0.8498, TEST: loss= 0.0007, acc= 0.8218, class_avg_acc= 0.8674
+epoch= 390, TRAIN: loss= 0.0007, acc= 0.7572, class_avg_acc= 0.8492, TEST: loss= 0.0007, acc= 0.8327, class_avg_acc= 0.8724
+epoch= 400, TRAIN: loss= 0.0007, acc= 0.7663, class_avg_acc= 0.8539, TEST: loss= 0.0007, acc= 0.8145, class_avg_acc= 0.8640
+epoch= 410, TRAIN: loss= 0.0007, acc= 0.7660, class_avg_acc= 0.8520, TEST: loss= 0.0007, acc= 0.8073, class_avg_acc= 0.8606
+epoch= 420, TRAIN: loss= 0.0007, acc= 0.7690, class_avg_acc= 0.8542, TEST: loss= 0.0007, acc= 0.8133, class_avg_acc= 0.8635
+epoch= 430, TRAIN: loss= 0.0007, acc= 0.7636, class_avg_acc= 0.8509, TEST: loss= 0.0006, acc= 0.8121, class_avg_acc= 0.8679
+epoch= 440, TRAIN: loss= 0.0007, acc= 0.7699, class_avg_acc= 0.8580, TEST: loss= 0.0006, acc= 0.8170, class_avg_acc= 0.8651
+epoch= 450, TRAIN: loss= 0.0007, acc= 0.7654, class_avg_acc= 0.8582, TEST: loss= 0.0007, acc= 0.8145, class_avg_acc= 0.8640
+epoch= 460, TRAIN: loss= 0.0007, acc= 0.7660, class_avg_acc= 0.8568, TEST: loss= 0.0007, acc= 0.8194, class_avg_acc= 0.8663
+epoch= 470, TRAIN: loss= 0.0007, acc= 0.7639, class_avg_acc= 0.8522, TEST: loss= 0.0006, acc= 0.8194, class_avg_acc= 0.8663
+epoch= 480, TRAIN: loss= 0.0007, acc= 0.7605, class_avg_acc= 0.8507, TEST: loss= 0.0007, acc= 0.8024, class_avg_acc= 0.8584
+epoch= 490, TRAIN: loss= 0.0007, acc= 0.7711, class_avg_acc= 0.8619, TEST: loss= 0.0007, acc= 0.8073, class_avg_acc= 0.8606
