@@ -1,0 +1,11 @@
+- [ ] embeddings
+  - [ ] each category separate
+  - [ ] joined categories
+- [ ] dealing with imbalanced classes
+  - [ ] oversampling
+  - [ ] penalty function added to loss (loss adjusted)
+- [ ] architecture tune
+  - [ ] batch norm
+  - [ ] weight regrularisation
+  - [ ] other activations
+  - [ ] width and depth of fc
