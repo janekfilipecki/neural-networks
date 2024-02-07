@@ -1,6 +1,0 @@
-data/
-weights
-.idea
-*pt
-*.pth
-!weights/model_0.57_15.pth
